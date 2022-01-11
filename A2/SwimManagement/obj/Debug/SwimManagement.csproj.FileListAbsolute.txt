@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\bin\Debug\SwimManagement.exe.config
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\bin\Debug\SwimManagement.exe
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\bin\Debug\SwimManagement.pdb
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\bin\Debug\SwimManagementLibrary.dll
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\bin\Debug\SwimManagementLibrary.pdb
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\obj\Debug\SwimManagement.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\obj\Debug\SwimManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\obj\Debug\SwimManagement.csproj.CopyComplete
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\obj\Debug\SwimManagement.exe
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A2\SwimManagement\obj\Debug\SwimManagement.pdb

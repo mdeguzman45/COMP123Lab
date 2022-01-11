@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwimManagementLibrary_301171014", "SwimManagementLibrary_301171014\SwimManagementLibrary_301171014.csproj", "{D7E98F40-92BF-4878-8BD1-B509329222F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwimManagementSystem_301171014", "SwimManagementSystem_301171014\SwimManagementSystem_301171014.csproj", "{6BFDE374-2AD8-4C66-A53A-DEA7F0DE4EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E98F40-92BF-4878-8BD1-B509329222F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E98F40-92BF-4878-8BD1-B509329222F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E98F40-92BF-4878-8BD1-B509329222F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E98F40-92BF-4878-8BD1-B509329222F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFDE374-2AD8-4C66-A53A-DEA7F0DE4EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFDE374-2AD8-4C66-A53A-DEA7F0DE4EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFDE374-2AD8-4C66-A53A-DEA7F0DE4EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFDE374-2AD8-4C66-A53A-DEA7F0DE4EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487C20F1-4159-462F-9DE8-D96FE258FE91}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A1\MarcD_301171014_A1\bin\Debug\MarcD_301171014_A1.exe.config
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A1\MarcD_301171014_A1\bin\Debug\MarcD_301171014_A1.exe
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A1\MarcD_301171014_A1\bin\Debug\MarcD_301171014_A1.pdb
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A1\MarcD_301171014_A1\obj\Debug\MarcD_301171014_A1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A1\MarcD_301171014_A1\obj\Debug\MarcD_301171014_A1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A1\MarcD_301171014_A1\obj\Debug\MarcD_301171014_A1.exe
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A1\MarcD_301171014_A1\obj\Debug\MarcD_301171014_A1.pdb

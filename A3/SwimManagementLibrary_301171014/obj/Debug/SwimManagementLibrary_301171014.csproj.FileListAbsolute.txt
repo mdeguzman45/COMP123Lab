@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A3\SwimManagementLibrary_301171014\bin\Debug\SwimManagementLibrary_301171014.dll
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A3\SwimManagementLibrary_301171014\bin\Debug\SwimManagementLibrary_301171014.pdb
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A3\SwimManagementLibrary_301171014\obj\Debug\SwimManagementLibrary_301171014.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A3\SwimManagementLibrary_301171014\obj\Debug\SwimManagementLibrary_301171014.dll
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A3\SwimManagementLibrary_301171014\obj\Debug\SwimManagementLibrary_301171014.pdb
+C:\Users\Asus\Desktop\Comp123_Solutions\MarcD_301171014_A3\SwimManagementLibrary_301171014\obj\Debug\SwimManagementLibrary_301171014.csprojAssemblyReference.cache
